@@ -1,7 +1,7 @@
 package leecode;
 
-import java.util.HashMap;
-import java.util.Map;
+import java.util.*;
+import java.util.stream.Collectors;
 
 public class leecode_1_两数之和 {
     public static void main(String[] args) {
@@ -31,5 +31,6 @@ public class leecode_1_两数之和 {
         }
         return new int[0];
     }
+
 
 }

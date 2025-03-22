@@ -26,25 +26,25 @@ public class 组合 {
     }
 //    public static List<List<Integer>> combine(int n, int k) {
 //        List<List<Integer>> res = new ArrayList<>();
-//        List<Integer> list = new ArrayList<>();
+//        List<Integer> linkList = new ArrayList<>();
 //        for (int i = 1; i <= n; i++) {
-//            list.add(i);
-//            backtrack(res, list, i, k, n);
-//            list.remove(list.size()-1);
+//            linkList.add(i);
+//            backtrack(res, linkList, i, k, n);
+//            linkList.remove(linkList.size()-1);
 //        }
 //        return res;
 //    }
-//    public static void backtrack( List<List<Integer>> res, List<Integer> list,int i, int k, int n){
-//        if(list.size() == k){
-//            List<Integer> clone = new ArrayList<>(list);
+//    public static void backtrack( List<List<Integer>> res, List<Integer> linkList,int i, int k, int n){
+//        if(linkList.size() == k){
+//            List<Integer> clone = new ArrayList<>(linkList);
 //            res.add(clone);
-//        } else if (k-list.size() > n-i) {
+//        } else if (k-linkList.size() > n-i) {
 //            return;
 //        }else {
 //            for (int j = i+1; j <= n; j++) {
-//                list.add(j);
-//                backtrack(res, list, j, k, n);
-//                list.remove(list.size()-1);
+//                linkList.add(j);
+//                backtrack(res, linkList, j, k, n);
+//                linkList.remove(linkList.size()-1);
 //            }
 //        }
 //    }

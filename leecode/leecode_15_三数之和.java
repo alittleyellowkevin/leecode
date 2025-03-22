@@ -1,7 +1,5 @@
 package leecode;
 
-import list.重排链表;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
