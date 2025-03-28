@@ -1,7 +1,6 @@
 package tree;
 
 import sort.插入排序;
-import sun.java2d.loops.GraphicsPrimitiveProxy;
 
 public class 二叉树的最近公共祖先 {
     public class TreeNode {

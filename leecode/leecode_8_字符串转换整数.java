@@ -1,7 +1,5 @@
 package leecode;
 
-import sun.nio.cs.ext.MacHebrew;
-
 public class leecode_8_字符串转换整数 {
     public int myAtoi(String s) {
         //去除空格

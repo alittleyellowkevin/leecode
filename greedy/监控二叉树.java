@@ -1,14 +1,5 @@
 package greedy;
 
-import array.有效的完全平方数;
-import sort.插入排序;
-import tree.二叉树的层序遍历;
-
-import java.util.ArrayList;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-
 public class 监控二叉树 {
     public class TreeNode {
         int val;

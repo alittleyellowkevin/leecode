@@ -1,6 +1,5 @@
 package sort;
 
-import com.sun.javaws.IconUtil;
 
 public class 选择排序 {
     public static void main(String[] args) {
