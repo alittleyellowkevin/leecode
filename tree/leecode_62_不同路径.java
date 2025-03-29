@@ -1,4 +1,4 @@
-package backtrack;
+package tree;
 
 public class leecode_62_不同路径 {
     //回溯

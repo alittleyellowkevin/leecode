@@ -3,7 +3,7 @@ package backtrack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 组合 {
+public class leecode_77_组合 {
     public static void main(String[] args) {
         combine(4, 2);
     }

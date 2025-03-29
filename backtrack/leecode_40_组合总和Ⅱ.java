@@ -2,7 +2,7 @@ package backtrack;
 
 import java.util.*;
 
-public class 组合总和Ⅱ {
+public class leecode_40_组合总和Ⅱ {
     public static void main(String[] args) {
         int[] nums = {2, 5, 2, 1, 2};
         System.out.println(combinationSum2(nums, 7));

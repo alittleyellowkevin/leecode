@@ -5,7 +5,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-public class 电话号码的字母组合 {
+public class leecode_17_电话号码的字母组合 {
     public static void main(String[] args) {
         String digits = "234";
         List<String> combine = letterCombinations(digits);

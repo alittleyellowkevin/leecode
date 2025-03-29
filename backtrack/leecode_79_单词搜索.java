@@ -1,6 +1,6 @@
 package backtrack;
 
-public class 单词搜索 {
+public class leecode_79_单词搜索 {
     public static void main(String[] args) {
 
     }

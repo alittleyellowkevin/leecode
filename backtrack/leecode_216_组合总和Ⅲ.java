@@ -3,7 +3,7 @@ package backtrack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 组合总和Ⅲ {
+public class leecode_216_组合总和Ⅲ {
     public static void main(String[] args) {
         combinationSum3(3, 7);
     }

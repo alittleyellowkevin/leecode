@@ -3,7 +3,7 @@ package backtrack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 复原IP地址 {
+public class leecode_93_复原IP地址 {
     public static void main(String[] args) {
         String s = "1234567";
         System.out.println(s.substring(0,s.length()-1));

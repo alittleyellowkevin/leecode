@@ -3,7 +3,7 @@ package backtrack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class 括号生成 {
+public class leecode_22_括号生成 {
     public static void main(String[] args) {
         generateParenthesis(3);
     }

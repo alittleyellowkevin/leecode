@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-public class 子集 {
+public class leecode_78_子集 {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3};
         subsets(nums);

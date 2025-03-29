@@ -1,8 +1,6 @@
-package tree;
+package backtrack;
 
-import sort.插入排序;
-
-public class 路径总和 {
+public class leecode_112_路径总和 {
     public class TreeNode {
         int val;
         TreeNode left;

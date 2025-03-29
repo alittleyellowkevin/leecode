@@ -1,4 +1,4 @@
-package leecode;
+package tree;
 
 import entity.TreeNode;
 

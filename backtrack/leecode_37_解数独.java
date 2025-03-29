@@ -1,9 +1,6 @@
 package backtrack;
 
-import java.util.HashSet;
-import java.util.Set;
-
-public class 解数独 {
+public class leecode_37_解数独 {
     public static void main(String[] args) {
         char[][] board = {{'5','3','.','.','7','.','.','.','.'},
                 {'6','.','.','1','9','5','.','.','.'},
