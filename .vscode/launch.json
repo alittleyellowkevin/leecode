@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "leecode_16_最接近的三数之和",
+            "request": "launch",
+            "mainClass": "array.leecode_16_最接近的三数之和",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "牛客_调整数组顺序使得奇数位于偶数前面",
+            "request": "launch",
+            "mainClass": "array.牛客_调整数组顺序使得奇数位于偶数前面",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "name": "Debug (Launch)",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "${file}",
+            "projectName": "Base"
+        }
+    ]
+}

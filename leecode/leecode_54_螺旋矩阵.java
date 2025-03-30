@@ -1,7 +1,5 @@
 package leecode;
 
-import hash.两数之和;
-
 import java.util.ArrayList;
 import java.util.List;
 

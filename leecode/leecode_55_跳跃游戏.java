@@ -1,7 +1,5 @@
 package leecode;
 
-import hash.两数之和;
-
 public class leecode_55_跳跃游戏 {
     public boolean canJump(int[] nums) {
         int n = nums.length;
