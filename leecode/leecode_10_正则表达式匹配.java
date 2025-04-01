@@ -1,10 +1,11 @@
 package leecode;
 
-import dynamic.买卖股票的最佳时机;
+import array.leecode_121_买卖股票的最佳时机;
 
 public class leecode_10_正则表达式匹配 {
     public static void main(String[] args) {
     }
+
     public boolean isMatch(String s, String p) {
         int m = s.length();
         int n = p.length();

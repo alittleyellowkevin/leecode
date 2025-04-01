@@ -1,28 +1,27 @@
 package dynamic;
 
-import java.util.ArrayList;
-import java.util.List;
-
 public class leecode_377_组合总和Ⅳ {
     public static void main(String[] args) {
     }
 
     public static int combinationSum4(int[] nums, int target) {
-        //1. 确定数组大小，以及数组所代表含义
-        int[] res = new int[target+1];
-        //2. 确定数组的初始值 -- 默认 res [0] = 0;
-        //3. 确定数组的遍历顺序
-        for(int i = 1; i <= target; i++){
-            for(int num : nums){
-                if(num == i){
-                    res[i] += 1;
-                }else if(num < i){
-                    res[i] += res[i-num];
-                }
+        int[] dp = new int[target + 1];
+
+        // dp[i]表示当前背包的最大种类数
+
+        // 递推公式 dp[j] += dp[j-num[i]]
+
+        // 初始化dp数组，表示金额为0时只有一种情况，也就是什么都不装
+
+        // 要先遍历背包，遍历物品
+        dp[0] = 1;
+        for (int j = 1; j <= target; j++) {
+            for (int i = 0; i < nums.length; i++) {
+                if (j - nums[i] >= 0)
+                    dp[j] += dp[j - nums[i]];
             }
         }
-        return res[target];
+        return dp[target];
     }
-
 
 }

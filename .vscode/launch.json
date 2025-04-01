@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "买卖股票的最佳时机Ⅳ",
+            "request": "launch",
+            "mainClass": "dynamic.买卖股票的最佳时机Ⅳ",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "leecode_2560_打家劫舍Ⅳ",
+            "request": "launch",
+            "mainClass": "dynamic.leecode_2560_打家劫舍Ⅳ",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
             "name": "leecode_16_最接近的三数之和",
             "request": "launch",
             "mainClass": "array.leecode_16_最接近的三数之和",
