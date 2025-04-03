@@ -2,6 +2,104 @@
     "configurations": [
         {
             "type": "java",
+            "name": "HJ53_杨辉三角的变形",
+            "request": "launch",
+            "mainClass": "huawei.HJ53_杨辉三角的变形",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ48_从单向链表中删除指定值的节点",
+            "request": "launch",
+            "mainClass": "huawei.HJ48_从单向链表中删除指定值的节点",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ45_名字的漂亮度",
+            "request": "launch",
+            "mainClass": "huawei.HJ45_名字的漂亮度",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ43_迷宫问题",
+            "request": "launch",
+            "mainClass": "huawei.HJ43_迷宫问题",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ38_求小球经历路程和高度",
+            "request": "launch",
+            "mainClass": "huawei.HJ38_求小球经历路程和高度",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ36_字符串加密",
+            "request": "launch",
+            "mainClass": "huawei.HJ36_字符串加密",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ33_整数与IP地址间的转换",
+            "request": "launch",
+            "mainClass": "huawei.HJ33_整数与IP地址间的转换",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ29_字符串加解密",
+            "request": "launch",
+            "mainClass": "huawei.HJ29_字符串加解密",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ27_查找兄弟单词",
+            "request": "launch",
+            "mainClass": "huawei.HJ27_查找兄弟单词",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ26_字符串排序",
+            "request": "launch",
+            "mainClass": "huawei.HJ26_字符串排序",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ24_合唱队",
+            "request": "launch",
+            "mainClass": "huawei.HJ24_合唱队",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ23_删除字符串中出现次数最少的字符",
+            "request": "launch",
+            "mainClass": "huawei.HJ23_删除字符串中出现次数最少的字符",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ20_密码验证合格程序",
+            "request": "launch",
+            "mainClass": "huawei.HJ20_密码验证合格程序",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ16_购物单",
+            "request": "launch",
+            "mainClass": "dynamic.HJ16_购物单",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
             "name": "买卖股票的最佳时机Ⅳ",
             "request": "launch",
             "mainClass": "dynamic.买卖股票的最佳时机Ⅳ",
