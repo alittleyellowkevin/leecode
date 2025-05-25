@@ -2,6 +2,118 @@
     "configurations": [
         {
             "type": "java",
+            "name": "leecode_3335_字符串转换后的长度I",
+            "request": "launch",
+            "mainClass": "字符串.leecode_3335_字符串转换后的长度I",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "leecode_60_排序序列",
+            "request": "launch",
+            "mainClass": "数学.leecode_60_排序序列",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "leecode_99_恢复二叉搜索树",
+            "request": "launch",
+            "mainClass": "树.leecode_99_恢复二叉搜索树",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "leecode_394_字符串解码",
+            "request": "launch",
+            "mainClass": "字符串.leecode_394_字符串解码",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "leecode_1143_最长公共子序列",
+            "request": "launch",
+            "mainClass": "字符串.leecode_1143_最长公共子序列",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "leecode_502_IPO",
+            "request": "launch",
+            "mainClass": "堆.leecode_502_IPO",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "Hard_HJ50_四则运算",
+            "request": "launch",
+            "mainClass": "huawei.Hard_HJ50_四则运算",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "牛客_调整数组顺序使得奇数位于偶数前面",
+            "request": "launch",
+            "mainClass": "线性表.牛客_调整数组顺序使得奇数位于偶数前面",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "TimeEfficiencyTest",
+            "request": "launch",
+            "mainClass": "array.TimeEfficiencyTest",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "课程表",
+            "request": "launch",
+            "mainClass": "graph.课程表",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "地铁耗时最短的路线",
+            "request": "launch",
+            "mainClass": "graph.地铁耗时最短的路线",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "补丁版升级",
+            "request": "launch",
+            "mainClass": "graph.补丁版升级",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ110_宝石手串",
+            "request": "launch",
+            "mainClass": "huawei.HJ110_宝石手串",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ108_求最小公倍数",
+            "request": "launch",
+            "mainClass": "huawei.HJ108_求最小公倍数",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ99_自守数",
+            "request": "launch",
+            "mainClass": "huawei.HJ99_自守数",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
+            "name": "HJ87_密码强度等级",
+            "request": "launch",
+            "mainClass": "huawei.HJ87_密码强度等级",
+            "projectName": "Base_fd71c148"
+        },
+        {
+            "type": "java",
             "name": "HJ53_杨辉三角的变形",
             "request": "launch",
             "mainClass": "huawei.HJ53_杨辉三角的变形",

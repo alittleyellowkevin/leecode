@@ -1,9 +1,9 @@
 package leecode;
 
-import entity.Edge;
-import entity.ListGraph;
-
 import java.util.*;
+
+import model.Edge;
+import model.ListGraph;
 
 public class leecode_399_除法求值 {
     public static void main(String[] args) {

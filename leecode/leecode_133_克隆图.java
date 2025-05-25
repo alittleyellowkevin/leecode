@@ -1,8 +1,8 @@
 package leecode;
 
-import entity.Node;
-
 import java.util.HashMap;
+
+import model.Node;
 
 public class leecode_133_克隆图 {
     public Node cloneGraph(Node node) {

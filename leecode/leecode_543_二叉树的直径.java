@@ -1,6 +1,6 @@
 package leecode;
 
-import entity.TreeNode;
+import model.TreeNode;
 
 public class leecode_543_二叉树的直径 {
     public int diameterOfBinaryTree(TreeNode root) {

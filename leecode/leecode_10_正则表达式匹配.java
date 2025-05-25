@@ -1,6 +1,6 @@
 package leecode;
 
-import array.leecode_121_买卖股票的最佳时机;
+import 线性表.leecode_121_买卖股票的最佳时机;
 
 public class leecode_10_正则表达式匹配 {
     public static void main(String[] args) {
