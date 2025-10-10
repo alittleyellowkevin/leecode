@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fbf6f636-9e2d-49cd-aa0e-656dbc06caff" name="Changes" comment="leecode 2025-10-6">
+      <change afterPath="$PROJECT_DIR$/leecode/leecode_3494_酿造药水需要的最少总时间.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/InterceptorUitl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.cursor/rules/rule.mdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hotcode100/leecode_46_全排列.java" beforeDir="false" afterPath="$PROJECT_DIR$/hotcode100/leecode_46_全排列.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../apache-maven-3.6.1" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../apache-maven-3.6.1/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2x1E6gdHraSVPcqkEgtPcmC2PNT" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "/Users/huangkaiwen/Desktop/Study/Java_home/Base",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15429688",
+    "project.structure.side.proportion": "0.37931034",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hotcode100" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="jingdong_2024_1_字符串排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.jingdong_2024_1_字符串排序" />
+      <module name="Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="meituan_2024_2_小美的平衡矩阵" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ACM.meituan_2024_2_小美的平衡矩阵" />
+      <module name="Base" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ACM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.meituan_2024_2_小美的平衡矩阵" />
+        <item itemvalue="Application.jingdong_2024_1_字符串排序" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fbf6f636-9e2d-49cd-aa0e-656dbc06caff" name="Changes" comment="" />
+      <created>1747097005147</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1747097005147</updated>
+      <workItem from="1747097011430" duration="99000" />
+      <workItem from="1747101695970" duration="4000" />
+      <workItem from="1748130752514" duration="4102000" />
+      <workItem from="1748996120084" duration="3526000" />
+      <workItem from="1749081617610" duration="3374000" />
+      <workItem from="1749168645564" duration="2944000" />
+      <workItem from="1749429753196" duration="1580000" />
+      <workItem from="1749515751093" duration="2000" />
+      <workItem from="1749515795965" duration="828000" />
+      <workItem from="1750120587528" duration="2388000" />
+      <workItem from="1750380623018" duration="3692000" />
+      <workItem from="1750640941442" duration="1904000" />
+      <workItem from="1750741519045" duration="1983000" />
+      <workItem from="1750812781772" duration="1990000" />
+      <workItem from="1750985612696" duration="1822000" />
+      <workItem from="1751074465249" duration="1139000" />
+      <workItem from="1751503526039" duration="3761000" />
+      <workItem from="1751611563763" duration="1274000" />
+      <workItem from="1751847880183" duration="2756000" />
+      <workItem from="1753231284743" duration="3884000" />
+      <workItem from="1753404097610" duration="2852000" />
+      <workItem from="1753493768666" duration="2988000" />
+      <workItem from="1753513024332" duration="5607000" />
+      <workItem from="1753596864093" duration="581000" />
+      <workItem from="1753601332495" duration="612000" />
+      <workItem from="1753749415407" duration="3565000" />
+      <workItem from="1754008669172" duration="4656000" />
+      <workItem from="1754100012600" duration="12092000" />
+      <workItem from="1754116152389" duration="1986000" />
+      <workItem from="1754206130872" duration="13229000" />
+      <workItem from="1754376882916" duration="664000" />
+      <workItem from="1754397659439" duration="5994000" />
+      <workItem from="1754528433790" duration="3828000" />
+      <workItem from="1754561793213" duration="2805000" />
+      <workItem from="1754568722257" duration="32495000" />
+      <workItem from="1754824271419" duration="7263000" />
+      <workItem from="1754962171785" duration="1612000" />
+      <workItem from="1755305227501" duration="13387000" />
+      <workItem from="1755518598878" duration="1038000" />
+      <workItem from="1755658423303" duration="1849000" />
+      <workItem from="1755668928595" duration="599000" />
+      <workItem from="1755928709373" duration="4201000" />
+      <workItem from="1755942186681" duration="4688000" />
+      <workItem from="1756093650966" duration="689000" />
+      <workItem from="1756117503150" duration="7147000" />
+      <workItem from="1756200606057" duration="1795000" />
+      <workItem from="1756859992924" duration="5813000" />
+      <workItem from="1756900299746" duration="30000" />
+      <workItem from="1756947544798" duration="1461000" />
+      <workItem from="1757980301542" duration="3441000" />
+      <workItem from="1758068600678" duration="2095000" />
+      <workItem from="1758070951914" duration="645000" />
+      <workItem from="1758241078322" duration="2257000" />
+      <workItem from="1758243634613" duration="4364000" />
+      <workItem from="1758586979102" duration="4005000" />
+      <workItem from="1758764706220" duration="726000" />
+      <workItem from="1758846249793" duration="142000" />
+      <workItem from="1759559158297" duration="5607000" />
+      <workItem from="1759668891897" duration="3170000" />
+      <workItem from="1759812545451" duration="1353000" />
+      <workItem from="1759915340942" duration="3387000" />
+      <workItem from="1759991005565" duration="996000" />
+      <workItem from="1760014018477" duration="927000" />
+      <workItem from="1760014953944" duration="69000" />
+      <workItem from="1760056316759" duration="104000" />
+      <workItem from="1760056423923" duration="920000" />
+      <workItem from="1760057350981" duration="3310000" />
+    </task>
+    <task id="LOCAL-00001" summary="更新内容  去除.class 文件">
+      <created>1748134452513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1748134452513</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新hot100 以及 美团笔试题">
+      <created>1754881948677</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1754881948677</updated>
+    </task>
+    <task id="LOCAL-00003" summary="leecode 2025-09-16">
+      <created>1757984558950</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757984558950</updated>
+    </task>
+    <task id="LOCAL-00004" summary="leecode 2025-09-17">
+      <created>1758071584398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758071584398</updated>
+    </task>
+    <task id="LOCAL-00005" summary="leecode 2025-09-19">
+      <created>1758243128067</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1758243128067</updated>
+    </task>
+    <task id="LOCAL-00006" summary="leecode 2025-10-4">
+      <created>1759569184808</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759569184808</updated>
+    </task>
+    <task id="LOCAL-00007" summary="leecode 2025-10-6">
+      <created>1759720013441</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759720013441</updated>
+    </task>
+    <task id="LOCAL-00008" summary="leecode 2025-10-6">
+      <created>1759918125137</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759918125137</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新内容  去除.class 文件" />
+    <MESSAGE value="更新hot100 以及 美团笔试题" />
+    <MESSAGE value="leecode 2025-09-16" />
+    <MESSAGE value="leecode 2025-09-17" />
+    <MESSAGE value="leecode 2025-09-19" />
+    <MESSAGE value="leecode 2025-10-4" />
+    <MESSAGE value="leecode 2025-10-6" />
+    <option name="LAST_COMMIT_MESSAGE" value="leecode 2025-10-6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/字符串/leecode_2131_连接两字母单词得到的最长回文串.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hotcode100/leecode_234_回文链表.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hotcode100/leecode_142_环形链表Ⅱ.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hotcode100/leecode_146_LRU缓存.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/hotcode100/leecode_114_二叉树展开为链表.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ACM/xiaohongshu_2024_1_小红书推荐算法.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/leecode/leecode_1792_最大平均通过率.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ACM/meituan_2024_2_小美的平衡矩阵.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

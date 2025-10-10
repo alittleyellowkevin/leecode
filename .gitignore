@@ -1,7 +1,0 @@
-*.xml
-./out
-.gitignore
-.cursor
-.idea
-.vscode
-*.class

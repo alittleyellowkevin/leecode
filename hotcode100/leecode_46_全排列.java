@@ -14,7 +14,7 @@ public class leecode_46_全排列 {
 
     private void generate(int[] nums, Set<Integer> set, List<Integer> list) {
         if (list.size() == nums.length) {
-            List<Integer> newList = list.stream().toList();
+            List<Integer> newList = new ArrayList<>();
             result.add(newList);
         } else {
             for (int i = 0; i < nums.length; i++) {
